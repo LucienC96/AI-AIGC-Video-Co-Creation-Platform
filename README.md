@@ -81,6 +81,7 @@ AI逼得所有人被迫走向单兵作战，要同时兼顾脑洞、制作、运
 如果这个项目对你有吸引力，欢迎为它点亮一颗 Star ⭐，让更多志同道合的伙伴看到我们！
 
 #### Star History
+#### Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=LucienC96/AI-AIGC-Video-Co-Creation-Platform&type=Date)](https://star-history.com/#LucienC96/AI-AIGC-Video-Co-Creation-Platform&Date)
 
 ---
